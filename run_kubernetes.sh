@@ -18,3 +18,4 @@ kubectl get pods
 # Step 4:
 # Forward the container port to a host
 kubectl port-forward nross-udacity-nd9991-p5 8000:80
+kubectl logs nross-udacity-nd9991-p5
