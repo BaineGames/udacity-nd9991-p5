@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/BaineGames/udacity-nd9991-p5.svg?style=svg)](https://circleci.com/gh/BaineGames/udacity-nd9991-p5)
 
 ## Project Overview
 
